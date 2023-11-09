@@ -1,4 +1,4 @@
-# [FTB Revelation](https://feed-the-beast.com/modpack/ftb_revelation) By FTB
+# [FTB Revelation](https://feed-the-beast.com/modpack/35-ftb_revelation) By FTB
 
 <!-- toc -->
 
